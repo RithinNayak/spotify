@@ -1,0 +1,10 @@
+It uses HashiCorp Configuration Language(HCL) to manage infrastructure resource
+
+It used to create and manage different resources network resources Storage Virtual machines
+
+features
+
+Support multiple cloud providers
+Enhance functionality with plugin-based architecture
+Supports version by integration of Remote version repositories
+Terraform supported Cloud platform
